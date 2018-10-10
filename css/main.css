@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:600');
+body
+{
+    background-color: #474747
+}
+div.topBar /*Class for the top Tool Bar*/
+{
+    background-color: rgba(0, 203, 255, 0.7);
+    margin: auto;
+    width: 90%;
+    height: 20%;
+    padding-top: 1.5%;
+    padding-bottom: 0.5%; 
+
+}
+div.main /* Class for the main body of the webpage*/
+{
+    background-color: rgba(255, 255, 255, 0.7);
+    margin: auto;
+    overflow: auto;
+    width: 90%;
+
+}
+table.navlayout
+{
+    font-family: Montserrat;
+    width: 80%;
+}
+td.navhead
+{
+    font-size: 140%;
+}
