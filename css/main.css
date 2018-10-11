@@ -31,3 +31,8 @@ td.navhead
 {
     font-size: 140%;
 }
+div.bookClubForm
+{
+    width: 30%;
+    background-color: white;
+}
