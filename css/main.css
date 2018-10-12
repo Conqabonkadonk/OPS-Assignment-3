@@ -8,9 +8,9 @@ div.topBar /*Class for the top Tool Bar*/
     background-color: rgba(0, 203, 255, 0.7);
     margin: auto;
     width: 90%;
-    height: 20%;
-    padding-top: 1.5%;
-    padding-bottom: 0.5%; 
+    height: 17%;
+    /*padding-top: 1.5%;
+    padding-bottom: 0.5%; */
 
 }
 div.main /* Class for the main body of the webpage*/
@@ -19,7 +19,7 @@ div.main /* Class for the main body of the webpage*/
     margin: auto;
     overflow-y: scroll;
     width: 90%;
-    height: 70%
+    height: 80%
 
 }
 table.navlayout
