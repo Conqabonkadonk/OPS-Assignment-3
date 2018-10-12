@@ -22,6 +22,14 @@ div.main /* Class for the main body of the webpage*/
     height: 80%
 
 }
+div.benefits 
+{
+    background-color: rgba(201,118,29,.9);
+    margin: auto;
+    width: 70%;
+    line-height: 170%;
+
+}
 table.navlayout
 {
     font-family: Montserrat;
@@ -47,6 +55,7 @@ tr.navRow
     padding-bottom: 5em;
     padding-top: 5em;
 }
+<<<<<<< HEAD
 /* Dropdown Button */
 .dropbtn 
 {
@@ -112,3 +121,12 @@ a:visited
     text-decoration: none;
     color: black;
 }
+=======
+font.benefitHeading
+{
+    color: #185c5d;
+    font-size: 60;
+    font-weight: 1200;
+    text-align: left;
+}
+>>>>>>> 5a6c18f750d06524b1fbc2da9c8d1230c51d8382
