@@ -27,6 +27,10 @@ table.navlayout
     font-family: Montserrat;
     width: 80%;
 }
+font.pageFont
+{
+    font-family: Montserrat;
+}
 td.navhead
 {
     font-size: 140%;
