@@ -30,9 +30,16 @@ table.navlayout
 td.navhead
 {
     font-size: 140%;
+    padding-bottom: 0.5em;
+    padding-top: 0.5em;
 }
 div.bookClubForm
 {
     width: 30%;
     background-color: white;
+}
+tr.navRow
+{
+    padding-bottom: 5em;
+    padding-top: 5em;
 }
