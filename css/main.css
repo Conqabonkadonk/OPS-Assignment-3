@@ -55,7 +55,6 @@ tr.navRow
     padding-bottom: 5em;
     padding-top: 5em;
 }
-<<<<<<< HEAD
 /* Dropdown Button */
 .dropbtn 
 {
@@ -121,7 +120,6 @@ a:visited
     text-decoration: none;
     color: black;
 }
-=======
 font.benefitHeading
 {
     color: #185c5d;
@@ -129,4 +127,3 @@ font.benefitHeading
     font-weight: 1200;
     text-align: left;
 }
->>>>>>> 5a6c18f750d06524b1fbc2da9c8d1230c51d8382
